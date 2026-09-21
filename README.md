@@ -44,19 +44,19 @@ I enjoy turning ideas into actual software, solving problems, experimenting with
 
 ### 🌱 Currently learning
 
-**Software development, algorithms, data structures, databases and modern technologies. Basically collecting knowledge until I can finally stop Googling every 5 minutes.**
+**Software development, algorithms, databases and new technologies.**
 
 ### 👯 Looking to collaborate on
 
-**Interesting software projects, open-source ideas and student projects that make me say “I have no idea how to do this” and then spend the next 6 hours figuring it out.**
+**Interesting software projects, open-source ideas and student projects.**
 
 ### 🤔 Looking for
 
-**Projects that force me to learn something new. If I already know how to do everything, where's the fun in that?**
+**Projects that help me learn and improve.**
 
 ### 💬 Ask me about
 
-**Python, Java, C++, algorithms, software projects, university life, debugging at 2 AM or why my code worked perfectly yesterday and suddenly decided to become sentient today.**
+**Python, Java, C++, algorithms, software projects and university life.**
 
 ### ⚡ Fun fact
 
