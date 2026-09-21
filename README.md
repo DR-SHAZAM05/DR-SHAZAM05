@@ -18,7 +18,11 @@
 </p>
 
 ---
- <img width="480" height="272" alt="Image" src="https://github.com/user-attachments/assets/e54c4c3a-079e-4578-9b51-954b77c1616c" />
+
+<p align="center">
+  <img width="480" height="272" alt="Image" src="https://github.com/user-attachments/assets/e54c4c3a-079e-4578-9b51-954b77c1616c" />
+</p>
+
 
 ## 🚀 About Me
 
@@ -186,6 +190,19 @@ Find the One Piece
     ↓
 Become a Software Engineer
 ```
-<p align="center"> <i>"I will find the One Piece."</i> </p>
+<p align="center">
+  <i>"I will find the One Piece."</i>
+</p>
 
-<p align="center"> ⭐ From <a href="https://github.com/DR-SHAZAM05">DR-SHAZAM05</a> </p>
+<p align="center">
+  <img
+    width="498"
+    height="277"
+    alt="One Piece"
+    src="https://github.com/user-attachments/assets/f9a3f204-8985-4d33-90ae-f89b51e86a82"
+  />
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/DR-SHAZAM05">DR-SHAZAM05</a>
+</p>
